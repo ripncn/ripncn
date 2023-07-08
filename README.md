@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--
-**ripncn/ripncn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**ripncn/ripncn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ripncn&show_icons=true&include_all_commits=true&hide_border=true" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
